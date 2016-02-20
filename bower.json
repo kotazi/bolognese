@@ -1,0 +1,25 @@
+{
+  "name": "bolognese",
+  "description": "Editor with contenteditable",
+  "main": "index.js",
+  "authors": [
+    "kotazi"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "editor",
+    "contenteditable",
+    "ES6"
+  ],
+  "homepage": "https://github.com/kotazi/bolognese",
+  "moduleType": [
+    "es6"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
