@@ -1,0 +1,32 @@
+{
+  "name": "bolognese",
+  "version": "0.0.1",
+  "description": "Editor with contenteditable",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotazi/bolognese.git"
+  },
+  "keywords": [
+    "editor",
+    "contenteditable",
+    "ES6"
+  ],
+  "author": "kotazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotazi/bolognese/issues"
+  },
+  "homepage": "https://github.com/kotazi/bolognese#readme",
+  "devDependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-core": "^6.5.2",
+    "babel-loader": "^6.2.3",
+    "babel-preset-es2015": "^6.5.0",
+    "es6-loader": "^0.2.0",
+    "webpack": "^1.12.13"
+  }
+}
